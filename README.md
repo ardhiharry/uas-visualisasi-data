@@ -55,7 +55,7 @@ source venv/bin/activate
 ### 6. Install Library yang diperlukan
 
 ```bash
-pip install jupyterlab pandas pyarrow numpy matplotlib seaborn scipy
+pip install jupyterlab pandas pyarrow numpy matplotlib seaborn scipy scikit-learn
 ```
 
 ## Deactivate Virtual Environment
